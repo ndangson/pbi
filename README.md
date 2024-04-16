@@ -12,7 +12,7 @@ Objective:
 - Time: from May-2018 to Dec-2020
 - Dimensions (Master data): Customer, Product, SalesTeam, Store
 - Fact (Transaction data): Sales
-  >Ref: https://www.linkedin.com/pulse/us-regional-sales-project-youki-chiba
+  >Thanks to the reference: https://www.linkedin.com/pulse/us-regional-sales-project-youki-chiba
   + **OrderNumber**: A unique identifier for each order.
   + **SalesChannel**: The channel through which the sale was made (In-Store, Online, Distributor, Wholesale).
   + **WarehouseCode**: Code representing the warehouse involved in the order.
@@ -30,6 +30,7 @@ Objective:
   + **UnitPrice**: Price at which the product was sold.
 
 **3. Defining measures**
+
 _Sales
 - Gross revenue = **[UnitPrice]** * **[OrderQuantity]**
 - Cost = **[UnitCost]** * **[OrderQuantity]**
