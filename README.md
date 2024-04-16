@@ -31,6 +31,7 @@ Objective:
 
 **3. Defining measures**
 
+Use Power Query to perform ETL and create measures:
 _Sales
 - Gross revenue = **[UnitPrice]** * **[OrderQuantity]**
 - Cost = **[UnitCost]** * **[OrderQuantity]**
@@ -42,3 +43,10 @@ _O2D (Order-to-Delivery)
 - ProcessingTime (days) = **[ShipDate]** - **[OrderDate]**
 - ShippingTime (days) = **[DeliveryDate]** - **[ShipDate]**
 - DeliveryTime = ProcessingTime + ShippingTime
+
+**4. EDA**
+
+Besides the information of **Dataset overview**:
+- Master data and transaction data from the dataset are performed data cleaning.
+- Customer can purchase products sold in different channels.
+- SalesTeam only operate in 1 or 2 sales channels.
