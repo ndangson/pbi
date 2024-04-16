@@ -7,7 +7,7 @@ Objective:
 
 **2. Dataset overview**
 
-[> https://data.world/dataman-udit/us-regional-sales-data]
+>https://data.world/dataman-udit/us-regional-sales-data
 - This dataset has sales data of B2B customers in US across different sales channels: **In-Store, Online, Distributor, and Wholesale**.
 - Time: from May-2018 to Dec-2020
 - Dimensions (Master data): Customer, Product, SalesTeam, Store
