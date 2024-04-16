@@ -30,8 +30,14 @@ Objective:
   + **UnitPrice**: Price at which the product was sold.
 
 **3. Defining measures**
+_Sales
 - Gross revenue = **[UnitPrice]** * **[OrderQuantity]**
 - Cost = **[UnitCost]** * **[OrderQuantity]**
 - Discount = Gross Revenue * **[DiscountApplied]**
 - Profit = Gross revenue - Cost - Discount
 - %Profit = Profit / Gross revenue
+
+_O2D (Order-to-Delivery)
+- ProcessingTime (days) = **[ShipDate]** - **[OrderDate]**
+- ShippingTime (days) = **[DeliveryDate]** - **[ShipDate]**
+- DeliveryTime = ProcessingTime + ShippingTime
