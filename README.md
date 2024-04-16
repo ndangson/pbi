@@ -1,3 +1,7 @@
+**Attention**
+
+>Please download pbix file for viewing (required PBI version: 2.127.1327.0 64-bit, March 2024) or quick view by screenshot.
+
 **1. Introduction**
 
 Hi there, this is my mini Power BI about sales dashboard of B2B sales dataset.
