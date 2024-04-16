@@ -11,7 +11,8 @@ Objective:
 - This dataset has sales data of B2B customers in US across different sales channels: **In-Store, Online, Distributor, and Wholesale**.
 - Time: from May-2018 to Dec-2020
 - Dimensions (Master data): Customer, Product, SalesTeam, Store
-- Fact (Transaction data): Sales >Thanks to the reference: https://www.linkedin.com/pulse/us-regional-sales-project-youki-chiba
+- Fact (Transaction data): Sales
+  >Thanks to the reference: https://www.linkedin.com/pulse/us-regional-sales-project-youki-chiba
   + **OrderNumber**: A unique identifier for each order.
   + **SalesChannel**: The channel through which the sale was made (In-Store, Online, Distributor, Wholesale).
   + **WarehouseCode**: Code representing the warehouse involved in the order.
