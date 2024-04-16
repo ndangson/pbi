@@ -12,7 +12,7 @@ Objective:
 - Time: from May-2018 to Dec-2020
 - Dimensions (Master data): Customer, Product, SalesTeam, Store
 - Fact (Transaction data): Sales
-  (Ref: >https://www.linkedin.com/pulse/us-regional-sales-project-youki-chiba)
+  >Ref: https://www.linkedin.com/pulse/us-regional-sales-project-youki-chiba
   + OrderNumber: A unique identifier for each order.
   + Sales Channel: The channel through which the sale was made (In-Store, Online, Distributor, Wholesale).
   + WarehouseCode: Code representing the warehouse involved in the order.
