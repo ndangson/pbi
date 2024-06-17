@@ -1,4 +1,4 @@
->**Attention**: Please download pbix file for viewing (required PBI version or later: 2.127.1327.0 64-bit, March 2024) or take a quick view prepared screenshot.
+>**Attention**: Please download pbix file for viewing (required PBI version or later: 2.127.1327.0 64-bit, March 2024) or take a quick view by prepared screenshot.
 
 **1. Introduction**
 
