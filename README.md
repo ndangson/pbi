@@ -34,6 +34,7 @@ Objective:
 **3. Defining measures**
 
 Use Power Query to perform ETL and create measures:
+
 _Sales
 - Gross revenue = **[UnitPrice]** * **[OrderQuantity]**
 - Cost = **[UnitCost]** * **[OrderQuantity]**
